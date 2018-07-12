@@ -1,4 +1,4 @@
-<?
+<?php
 
 $nome = "Sujeito";
 $site = 'www.globo.com';

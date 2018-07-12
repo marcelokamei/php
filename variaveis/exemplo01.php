@@ -1,4 +1,4 @@
-<?
+<?php
 
     /*
     $nome = "Marcelo Kamei";
